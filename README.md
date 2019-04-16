@@ -7,5 +7,8 @@ Project 2: Using a dropdown menu, the user can add the shape of their choosing i
 
 ![Screen Shot 2019-04-16 at 5 34 45 PM](https://user-images.githubusercontent.com/29104770/56248701-b2909680-606e-11e9-8fbf-e77067712ac8.png)
 
+Project 3: App that builds a list if you've checked items off using only JQuery and HTML. 
 
-Project 3: App that adds color to a flower image when clicked and dragged on top using only HTML CSS and JQuery. 
+Project 4: App that draws boxes for you when the user clicks on two points on the canvas. 
+
+Project 4: App that adds color to a flower image when clicked and dragged on top using only HTML CSS and JQuery. 
